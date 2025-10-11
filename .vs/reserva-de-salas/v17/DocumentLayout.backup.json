@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos\\reserva-de-salas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|c:\\projetos\\reserva-de-salas\\reserva-de-salas\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Migrations\\20251011191359_AddUsuarioEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:reserva-de-salas\\Migrations\\20251011191359_AddUsuarioEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|c:\\projetos\\reserva-de-salas\\reserva-de-salas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251011191359_AddUsuarioEntity.cs",
+              "DocumentMoniker": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Migrations\\20251011191359_AddUsuarioEntity.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Migrations\\20251011191359_AddUsuarioEntity.cs",
+              "ToolTip": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Migrations\\20251011191359_AddUsuarioEntity.cs",
+              "RelativeToolTip": "reserva-de-salas\\Migrations\\20251011191359_AddUsuarioEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:13:59.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Data\\BancoContext.cs",
+              "ToolTip": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Data\\BancoContext.cs",
+              "RelativeToolTip": "reserva-de-salas\\Data\\BancoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:12:36.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Models\\Usuario.cs",
+              "RelativeToolTip": "reserva-de-salas\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:06:30.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
