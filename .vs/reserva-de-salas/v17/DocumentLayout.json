@@ -1,12 +1,173 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos\\reserva-de-salas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|c:\\projetos\\reserva-de-salas\\reserva-de-salas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|c:\\projetos\\reserva-de-salas\\reserva-de-salas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|c:\\projetos\\reserva-de-salas\\reserva-de-salas\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|c:\\projetos\\reserva-de-salas\\reserva-de-salas\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|c:\\projetos\\reserva-de-salas\\reserva-de-salas\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|c:\\projetos\\reserva-de-salas\\reserva-de-salas\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|c:\\projetos\\reserva-de-salas\\reserva-de-salas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|c:\\projetos\\reserva-de-salas\\reserva-de-salas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|c:\\projetos\\reserva-de-salas\\reserva-de-salas\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36221EE-C760-49A1-A143-729D7FDB891C}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "reserva-de-salas\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwGcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:09:19.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\UsuarioService.cs",
+              "ToolTip": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\UsuarioService.cs",
+              "RelativeToolTip": "reserva-de-salas\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:58:43.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "reserva-de-salas\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:55:29.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "reserva-de-salas\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:46:08.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "reserva-de-salas\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:42:00.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\appsettings.json",
+              "RelativeDocumentMoniker": "reserva-de-salas\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\appsettings.json",
+              "RelativeToolTip": "reserva-de-salas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-25T17:38:20.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Program.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Program.cs",
+              "ToolTip": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Program.cs",
+              "RelativeToolTip": "reserva-de-salas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:37:50.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Models\\Usuario.cs",
+              "RelativeToolTip": "reserva-de-salas\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:37:38.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Data\\BancoContext.cs",
+              "ToolTip": "C:\\Projetos\\reserva-de-salas\\reserva-de-salas\\Data\\BancoContext.cs",
+              "RelativeToolTip": "reserva-de-salas\\Data\\BancoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:53:32.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
