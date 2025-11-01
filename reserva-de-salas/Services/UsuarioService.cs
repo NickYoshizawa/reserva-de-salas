@@ -1,7 +1,7 @@
 ﻿using reserva_de_salas.Interfaces;
 using reserva_de_salas.Models;
 
-namespace reserva_de_salas
+namespace reserva_de_salas.Services
 {
     public class UsuarioService : IUsuarioService
     {
